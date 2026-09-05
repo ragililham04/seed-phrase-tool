@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>SeedTool.Core</RootNamespace>
+    <AssemblyName>SeedTool.Core</AssemblyName>
+  </PropertyGroup>
+</Project>
